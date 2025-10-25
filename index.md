@@ -6,13 +6,13 @@ Follow these steps to enable unlimited Google Photos backup using ReVanced and m
 
 ## Step 1: Download Required Files
 
-1. **Device profile file**  
-   → [Download pixel_xl_10.xml](https://raw.githubusercontent.com/ntrongphuc1302/revanced-photo-guide/main/assets/pixel_xl_10.xml){:download="pixel_xl_10.xml"}
+1. **Device profile file**
+   → [Download pixel_xl_10.xml](https://drive.google.com/file/d/1CI05fowIgyVbrlxK9KvoG1QMDHs94UjC/view?usp=sharing)
 
-2. **microG APK** (latest release)  
+2. **microG APK**
    → [Download from official microG GitHub](https://github.com/ReVanced/GmsCore/releases/latest)
 
-3. **Google Photos ReVanced APK** (latest release)
+3. **Google Photos ReVanced APK**
    → [Download from trusted ReVanced repo](https://github.com/Unofficial-Life/revanced-gphotos-build/releases/latest)
 
 _(Always download only from the official ReVanced or trusted open-source sources.)_
